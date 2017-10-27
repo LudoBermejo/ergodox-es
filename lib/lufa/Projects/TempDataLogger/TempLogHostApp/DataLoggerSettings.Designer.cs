@@ -1,4 +1,4 @@
-﻿namespace Project1HostApp
+﻿﻿namespace Project1HostApp
 {
     partial class frmDataloggerSettings
     {

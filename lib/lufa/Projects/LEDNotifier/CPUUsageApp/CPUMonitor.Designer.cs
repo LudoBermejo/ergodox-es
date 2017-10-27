@@ -1,4 +1,4 @@
-﻿namespace CPUMonitor
+﻿﻿namespace CPUMonitor
 {
     partial class frmCPU
     {

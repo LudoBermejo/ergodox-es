@@ -1,4 +1,4 @@
-﻿namespace LEDMixer
+﻿﻿namespace LEDMixer
 {
     partial class LEDMixer
     {
